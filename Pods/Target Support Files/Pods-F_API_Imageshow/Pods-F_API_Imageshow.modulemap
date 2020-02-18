@@ -1,0 +1,6 @@
+framework module Pods_F_API_Imageshow {
+  umbrella header "Pods-F_API_Imageshow-umbrella.h"
+
+  export *
+  module * { export * }
+}
